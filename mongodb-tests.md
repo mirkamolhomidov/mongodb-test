@@ -73,6 +73,6 @@
 
 24. MongoDB replica set nima uchun ishlatiladi?
     B) Ma'lumotlar zaxirasini yaratish va yuqori mavjudlikni ta'minlash uchun
-
+    mk
 25. MongoDB sharding nima?
     B) Ma'lumotlarni bir nechta serverga taqsimlash
